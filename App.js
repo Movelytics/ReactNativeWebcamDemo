@@ -16,7 +16,7 @@ export default function App() {
   const height = 350
 
   // Our API request the exercise you want to track and count
-  const exercise = "squat"
+  const exercise = "face_plank"
 
   // Our API request the difficulty of the exercise (by default it's set to normal)
   const difficulty = "easy"
