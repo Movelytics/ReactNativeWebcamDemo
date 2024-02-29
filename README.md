@@ -5,7 +5,7 @@ This is an integration React native for the API PoseTracker API (posetrakcer.com
 PoseTracker is the first real-time posture detection API optimized for Web, IOS & Android. No need to install AI or ML package, you just need to follow our tutorial.
 
 # Install & run
-API KEY : First you need to create a free account to get your API_KEY website : https://www.movelytics.fr/phone-posture-detector
+API KEY : First you need to create a free account to get your API_KEY website : https://posetracker.com
 Then run : 
 - yarn install 
 - yarn start
