@@ -6,6 +6,7 @@ PoseTracker is the first real-time posture detection API optimized for Web, IOS 
 
 # Install & run
 API KEY : First you need to create a free account to get your API_KEY website : https://posetracker.com
+
 Then run : 
 - yarn install 
 - yarn start
